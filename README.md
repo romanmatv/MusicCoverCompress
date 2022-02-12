@@ -1,6 +1,7 @@
 # MusicCoverCompress
 
-Simple program for compress cover image to fixed size and extract album cover from music tags by taglib
+Simple console program for compress cover image to fixed size and extract album cover from music tags by taglib.
+Accepting any images and music files, auto parse. Saving a compressed cover next to the source file.
 
 The program accepts settings from settings.ini
 ```ini
